@@ -62,4 +62,3 @@ This repository contains the Power BI project file for the **E-Commerce Sales Da
 ### Acknowledgements
 
 - Microsoft Power BI for the analytics platform.
-- [Any relevant datasets or collaborators].
